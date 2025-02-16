@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Editor and IDE settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.local
+*.secret
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Docker
+docker-compose.override.yml
+*.dockerfile
+
+# Cache and temporary files
+*.bak
+*.swp
+*.tmp
+
+# macOS files
+.DS_Store
+
+# pytest cache
+.pytest_cache/
